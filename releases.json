@@ -1,11 +1,11 @@
 {
-  "version": "4.0.0",
+  "version": "4.1.0",
   "notes": "Complete overhaul of the launcher UI. You can now download the game directly from within the launcher. If an update fails, please download the latest version from https://tactical-ops.eu/.",
   "pub_date": "2026-05-01T10:00:49.054Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3UxRkR4dXFoTWNrOG9LeVgrTGFTZVAzRHY1NUt0SG50alNXYmZiZUV4WGtFSGZ6c3VMdlIxWWFQQzJBbGlBQXdMcDZ4SVJxc2R4NG9id05NV2IxLy9Wb1pLRVVveHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjMwODI0CWZpbGU6VGFjdGljYWwgT3BzIExhdW5jaGVyXzQuMC4wX3g2NF9lbi1VUy5tc2kuemlwClBRYllqZElocTRwYlZCaVdsR2dKMFhJOXpnb2c4M0Z4VnVHaXA4NzBZc1VyTzhXallUS1NFWVZQQnFOQnozalpueU1IY3lWYmdIZnRwR2djazdWd0RnPT0K",
-      "url": "https://github.com/Tragio/TacticalOps-Launcher/releases/download/to-v4.0.0/Tactical.Ops.Launcher_4.0.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3UxRkR4dXFoTVo2aWFZVkN2Q0VFYmQ1bWlKdFFSZ21ETWEvZDg5Y0RlZklvUEVzR3RSY0pGVnJPWEQ5SlJKR0tOcTNSUXFBNEx3enkxOEh6MnpzNUNpa3lkMXFES3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjU4MTk1CWZpbGU6VGFjdGljYWwgT3BzIExhdW5jaGVyXzQuMS4wX3g2NF9lbi1VUy5tc2kuemlwCndULzQ5Rm8yOWtHdm9KTGxtR3FiWUZySWxYZU95VGt1b25qNEFaZFJ5SSt0ekdYMkYwdEpNTTlCL1FSTE92cDdpMFNMMHR0bkc1V0dJTFhnNnd4MkJBPT0K",
+      "url": "https://github.com/Tragio/TacticalOps-Launcher/releases/download/to-v4.1.0/Tactical.Ops.Launcher_4.1.0_x64_en-US.msi.zip"
     }
   }
 }
